@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dnd-hosteado/build/static/css/main.c9e1a734.css",
-    "main.js": "/dnd-hosteado/build/static/js/main.a10f432e.js",
-    "static/js/453.8381b185.chunk.js": "/dnd-hosteado/build/static/js/453.8381b185.chunk.js",
-    "static/media/dice.png": "/dnd-hosteado/build/static/media/dice.22b6ed7fe12ad09d4679.png",
-    "index.html": "/dnd-hosteado/build/index.html",
-    "main.c9e1a734.css.map": "/dnd-hosteado/build/static/css/main.c9e1a734.css.map",
-    "main.a10f432e.js.map": "/dnd-hosteado/build/static/js/main.a10f432e.js.map",
-    "453.8381b185.chunk.js.map": "/dnd-hosteado/build/static/js/453.8381b185.chunk.js.map"
+    "main.css": "/dndhost/build/static/css/main.c9e1a734.css",
+    "main.js": "/dndhost/build/static/js/main.48c9f3b1.js",
+    "static/js/453.8381b185.chunk.js": "/dndhost/build/static/js/453.8381b185.chunk.js",
+    "static/media/dice.png": "/dndhost/build/static/media/dice.22b6ed7fe12ad09d4679.png",
+    "index.html": "/dndhost/build/index.html",
+    "main.c9e1a734.css.map": "/dndhost/build/static/css/main.c9e1a734.css.map",
+    "main.48c9f3b1.js.map": "/dndhost/build/static/js/main.48c9f3b1.js.map",
+    "453.8381b185.chunk.js.map": "/dndhost/build/static/js/453.8381b185.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9e1a734.css",
-    "static/js/main.a10f432e.js"
+    "static/js/main.48c9f3b1.js"
   ]
 }
